@@ -6,3 +6,4 @@ Leistungsnachweis Informatik mit Python BMLD25
 - Luana Birtone (birtolua@students.zhaw.ch)
 
 # Projektidee:
+Wir untersuchen die zehn Länder mit dem höchsten prozentualen Anteil an obdachlosen Menschen im Verhältnis zur Gesamtbevölkerung.
