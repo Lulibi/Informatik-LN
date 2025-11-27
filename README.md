@@ -1,4 +1,4 @@
-# Obdachlosigkeit im globalen Vergleich: Eine quantitative Untersuchung
+# Obdachlosigkeit im globalen Vergleich: 
 Leistungsnachweis Informatik mit Python BMLD25
 
 # Team:	
