@@ -1,2 +1,4 @@
 # Informatik-LN
-Leistungsnachweis Informatik 
+Leistungsnachweis Informatik mit Python
+
+Team
