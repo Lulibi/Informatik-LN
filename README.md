@@ -1,4 +1,8 @@
 # Informatik-LN
-Leistungsnachweis Informatik mit Python
+Leistungsnachweis Informatik mit Python BMLD25
 
-Team
+Team:
+Jasleen Bal (baljas01@students.zhaw.ch),
+Luana Birtone (birtolua@students.zhaw.ch)
+
+Projektidee:
