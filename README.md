@@ -1,4 +1,4 @@
-# Obdachlosigkeit im globalen Vergleich: 
+# Obdachlosigkeit im globalen Vergleich
 Leistungsnachweis Informatik mit Python BMLD25
 
 # Team:	
